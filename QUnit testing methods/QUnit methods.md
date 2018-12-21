@@ -1,9 +1,9 @@
 # QUnit Testing Methods
 
-* [__Module__](#Module_8)
-* [__Only__](#Only_23)
-* [__Skip__](#Skip_41)
-* [__Todo__](#Todo_61)
+* [__Module__](#user-content-module)
+* [__Only__](#user-content-only)
+* [__Skip__](#user-content-skip)
+* [__Todo__](#user-content-todo)
 
 ___
 
