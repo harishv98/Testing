@@ -9,7 +9,7 @@ then this code is combined with HTML as an inline event handler
   1. Integration Tests
   1. Acceptance Tests
 
-#### Unit Testing
+#### [Unit Testing](https://github.com/harishv98/Testing/blob/master/QUnit%20testing%20methods/QUnit%20methods.md)
 
 >Testing of individual functions or classes by supplying input and making sure the
 output is as expected.
